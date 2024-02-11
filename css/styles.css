@@ -118,16 +118,13 @@ color: #2e2f42;
         text-transform: capitalize;
         text-align: center;
         color: #2e2f42;
-        background-color: #F4F4FD;
+        background-color: #FFFFFF;
 }
 
-.list-potfolio {
+.list-portfolio {
     background-color: #FFFFFF;
 }
 
-.list-team {
-    background-color: #FFFFFF;
-}
 
 .portfolio-name {
         font-weight: 500;
